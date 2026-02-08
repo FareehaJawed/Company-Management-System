@@ -1,0 +1,12 @@
+ID,Name,Reviews Given,Reviews Received,Average Received Score
+emp109,Saqib Shahab,"To emp103:6 To emp110:2 ","From emp104:4 From emp101:1 From emp108:7 ",4
+emp110,Hadia Jamil,"","From emp109:2 ",2
+emp105,Saqib Sohail,"To emp106:5 ","From emp106:7 From emp108:5 ",6
+emp166,jasiJ,"","",0
+emp104,Warisha Pervez,"To emp109:4 ","From emp103:4 ",4
+emp106,Wania Pervez,"To emp108:8 To emp105:7 ","From emp105:5 ",5
+emp101,Yousuf Sohail,"To emp102:8 To emp109:1 ","From emp102:7 ",7
+emp102,Fareeha Jawed,"To emp103:9 To emp101:7 To emp107:7 ","From emp101:8 ",8
+emp103,Ammar Sohail,"To emp104:4 ","From emp109:6 From emp102:9 ",7
+emp108,Kashif Shahab,"To emp105:5 To emp109:7 ","From emp106:8 ",8
+emp107,Fahad Jawed,"","From emp102:7 ",7

@@ -1,0 +1,12 @@
+EmpID,EmpName,Projects,AvgScore,ProjectCount,PerformanceScore,FinalScore
+emp109,Saqib Shahab,"Data Cleanup:6,UI Redesign:8",7,2,14,14
+emp110,Hadia Jamil,"Bug Fixing:5",5,1,5,5
+emp105,Saqib Sohail,"API Integration:7,Bug Fixing:5",6,2,12,12
+emp166,jasiJ,"",0,0,0,0
+emp104,Warisha Pervez,"",0,0,0,0
+emp106,Wania Pervez,"UI Redesign:8",8,1,8,8
+emp101,Yousuf Sohail,"AI Model:10",10,1,10,10
+emp102,Fareeha Jawed,"AI Model:10,API Integration:7",8.5,2,17,17
+emp103,Ammar Sohail,"API Integration:7,Data Cleanup:6",6.5,2,13,13
+emp108,Kashif Shahab,"AI Model:10,Bug Fixing:5,Data Cleanup:6",7,3,21,21
+emp107,Fahad Jawed,"Bug Fixing:5",5,1,5,5
